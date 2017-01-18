@@ -1,0 +1,6 @@
+C:\Users\ase\Desktop\SENG301\DebuggingExample1\DebuggingExample1\bin\Debug\DebuggingExample1.exe.config
+C:\Users\ase\Desktop\SENG301\DebuggingExample1\DebuggingExample1\bin\Debug\DebuggingExample1.exe
+C:\Users\ase\Desktop\SENG301\DebuggingExample1\DebuggingExample1\bin\Debug\DebuggingExample1.pdb
+C:\Users\ase\Desktop\SENG301\DebuggingExample1\DebuggingExample1\obj\Debug\DebuggingExample1.csprojResolveAssemblyReference.cache
+C:\Users\ase\Desktop\SENG301\DebuggingExample1\DebuggingExample1\obj\Debug\DebuggingExample1.exe
+C:\Users\ase\Desktop\SENG301\DebuggingExample1\DebuggingExample1\obj\Debug\DebuggingExample1.pdb
